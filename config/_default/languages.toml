@@ -1,0 +1,17 @@
+[gz]
+contentDir = "content/gz"
+languageName = "Galego"
+languageCode = "gz"
+weight = 1
+
+[en]
+contentDir = "content/en"
+languageName = "English"
+languageCode = "en"
+weight = 2
+
+[cas]
+contentDir = "content/cas"
+languageName = "Castellano"
+languageCode = "cas"
+weight = 3

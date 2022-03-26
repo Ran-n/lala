@@ -1,0 +1,21 @@
+navbarTitle = "lala"
+footer = "©2021 lala"
+
+enableZoomingJS = true
+enableTOC = true
+enableSiteSearch = true
+enableMathJax = false
+
+# Codeblock
+usePrismJs = false
+enablePrismJsLineNo = true
+enableCodeCopy = true
+
+#SEO
+enableOpenGraph = true
+enableTwitterCards = true
+author = "Ran#"
+
+# Collapsible Menu
+enableCollapsibleTOC = true
+enableCollapsibleChangelogs= true

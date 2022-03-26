@@ -1,0 +1,18 @@
+baseURL = 'https://ran-n.github.io/lala/'
+languageCode = 'en'
+title = 'lala'
+theme = 'hugo-theme-monochrome'
+defaultContentLanguage = "gz"
+enableEmoji = true
+#contentDir = 'content'
+
+[build]
+writeStats = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
