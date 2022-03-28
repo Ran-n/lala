@@ -1,6 +1,6 @@
 baseURL = 'https://ran-n.github.io/lala/'
 languageCode = 'en'
-title = 'lala'
+title = 'LALA'
 theme = 'hugo-theme-monochrome'
 defaultContentLanguage = "gz"
 enableEmoji = true

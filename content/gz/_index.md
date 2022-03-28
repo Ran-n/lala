@@ -1,5 +1,5 @@
 ---
-#title: ""
+title: "Lala Decoracións"
 date: 2022-03-27T00:15:04+01:00
 #draft: true
 
@@ -20,3 +20,7 @@ date: 2022-03-27T00:15:04+01:00
                  Benvido a LALA decoracións.
 
 ![foto](cestas/amalgama_cestas_varias.jpg)
+
+
+                Para todos os eventos e idades.
+

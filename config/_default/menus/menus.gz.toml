@@ -1,0 +1,60 @@
+[[navbar]]
+    identifier = "cestas"
+    name = "Cestas"
+    url = "/cestas/"
+    weight = 1
+
+[[navbar]]
+    identifier = "festas"
+    name = "Celebracións"
+    url = "/festas/"
+    weight = 2
+    [[navbar]]
+        parent = "festas"
+        identifier = "cumples"
+        name = "Cumpleanos"
+        url = "/cumpleanos/"
+        weight = 1
+    [[navbar]]
+        parent = "festas"
+        identifier = "aniversarios"
+        name = "Aniversarios"
+        url = "/aniversarios/"
+        weight = 2
+    [[navbar]]
+        parent = "festas"
+        identifier = "sanva"
+        name = "San Valentín"
+        url = "/sam-vai-lentin/"
+        weight = 3
+    [[navbar]]
+        parent = "festas"
+        identifier = "pascua"
+        name = "Pascua"
+        url = "/pascua/"
+        weight = 4
+    [[navbar]]
+        parent = "festas"
+        identifier = "nai"
+        name = "Día da Nai"
+        url = "/dia-nai/"
+        weight = 5
+    [[navbar]]
+        parent = "festas"
+        identifier = "pai"
+        name = "Día da Pai"
+        url = "/dia-pai/"
+        weight = 6
+
+[[navbar]]
+    identifier = "contacto"
+    name = "Contacto"
+    url = "/contacto/"
+    weight = 6
+
+[[navbar]]
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 7
+
