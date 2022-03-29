@@ -17,10 +17,16 @@ bookcase_list_sections: false
 
 <img src="lala_logo_velho.png" alt="lala" width="150"/>
 
-                 Benvido a LALA decoracións.
+<br>
+<div style="border: solid 3px black; text-align: center">
+    Benvido a LALA decoracións.
+</div>
+<br>
 
 ![foto](cestas/amalgama_cestas_varias.jpg)
 
 
-                Para todos os eventos e idades.
-
+<br>
+<div style="border: solid 3px black; text-align: center">
+    Para todos os eventos e idades.
+</div>
