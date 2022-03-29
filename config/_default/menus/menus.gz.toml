@@ -1,7 +1,7 @@
 [[navbar]]
-    identifier = "cestas"
-    name = "Cestas"
-    url = "/cestas/"
+    identifier = "decoracions"
+    name = "Decoracións"
+    url = "/decoracions/"
     weight = 1
 [[navbar]]
     identifier = "festas"
