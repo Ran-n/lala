@@ -11,3 +11,5 @@ gallery_resources: '__cestas'
 #balloon_resources: "__cestas"
 
 ---
+
+# Exemplos de decoracións
