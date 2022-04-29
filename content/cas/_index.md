@@ -1,5 +1,5 @@
 ---
-#title: "Lala Decoracións"
+#title: "Lala Decoraciones"
 date: 2022-03-27T00:15:04+01:00
 #draft: true
 author: 'Ran#'
@@ -21,7 +21,7 @@ bookcase_list_sections: false
 <br>
 
 <div style="border: solid 3px currentColor; text-align: center">
-    Benvido a LALA decoracións.
+    Bienvenido a LALA decoraciones.
 </div>
 
 <br>
@@ -32,5 +32,5 @@ bookcase_list_sections: false
 <br>
 
 <div style="border: solid 3px currentColor; text-align: center">
-    Para todos os eventos e idades.
+    Para todos los eventos y edades.
 </div>

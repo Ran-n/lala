@@ -21,7 +21,7 @@ bookcase_list_sections: false
 <br>
 
 <div style="border: solid 3px currentColor; text-align: center">
-    Benvido a LALA decoracións.
+    Welcome to LALA decorations.
 </div>
 
 <br>
@@ -32,5 +32,5 @@ bookcase_list_sections: false
 <br>
 
 <div style="border: solid 3px currentColor; text-align: center">
-    Para todos os eventos e idades.
+    For all events and ages.
 </div>
